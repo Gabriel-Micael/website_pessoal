@@ -1,0 +1,150 @@
+.myself {
+    border-radius: 5%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.4);
+    border: 5px, #fff;
+}
+
+.bemvindo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Helvetica;
+}
+
+.titulos {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.projetos {
+    margin-right: 50px;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin-right: 0;
+    padding: 0;
+    float: right;
+    font-size: 20px;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-left: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  section {
+    padding: 20px;
+    margin-top: 50px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  p{
+    text-align: justify;
+    text-indent: 1em;
+    margin-top: 0;
+    margin-bottom: 1em;
+    font-size: 20px;
+    font-family: Mulish;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 25px;
+    margin-top: 100px;
+    font-family: Helvetica;
+  }
+  .jogo {
+    border-radius: 5%;
+    box-shadow: 2 4px 6px rgba(0, 0, 0, 0.4);
+    border: 5px, #fff;
+  }
+
+  .intro{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Helvetica;
+  }
+
+  .intro2{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 10%;
+  }
+
+  .top5 {
+    margin-left: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+  }
+  li{
+    margin-top: 20px;
+  }
+
+  .container{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    text-align:center ;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+i{
+    font-size: 40px;
+}
+
+.description{
+    margin-left: 5%;
+    font-size: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+}
